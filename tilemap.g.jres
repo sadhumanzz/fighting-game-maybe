@@ -5,7 +5,7 @@
         "tilemapTile": true
     },
     "tile1": {
-        "data": "hwQQABAAAAB3d3d3d3d3dxcRERERERFxFxEREREREXEXERERERERcRcRERERERFxFxEREREREXEXERERERERcRcRERERERFxFxEREREREXEXERERERERcRcRERERERFxFxEREREREXEXERERERERcRcRERERERFxFxEREREREXF3d3d3d3d3dw==",
+        "data": "hwQQABAAAADd3d3t3d3d7e3t7e3t7e3t3t7e7d7e3u3t7e3t7e3t7d7e3u3e3t7t7e3t7e3t7e3e3t7t3t7e7e7u7u7u7u7u3d3d7d3d3e3t7e3t7e3t7d7e3u3e3t7t7e3t7e3t7e3e3t7t3t7e7e3t7e3t7e3t3t7e7d7e3u3u7u7u7u7u7g==",
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true,
         "displayName": "myTile"

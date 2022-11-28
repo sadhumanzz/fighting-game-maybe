@@ -1,11 +1,13 @@
 {
-    "name": "Fighting Game maybe",
+    "name": "Procedural MetroidVania Roguelike.",
     "description": "",
     "dependencies": {
         "device": "*",
         "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301",
         "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
-        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.3.1"
     },
     "files": [
         "main.blocks",
@@ -28,20 +30,20 @@
     "preferredEditor": "blocksprj",
     "palette": [
         "#000000",
-        "#2b0f54",
-        "#ab1f65",
-        "#ff4f69",
-        "#fff7f8",
-        "#ff8142",
-        "#ffda45",
-        "#3368dc",
-        "#49e7ec",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000"
+        "#070505",
+        "#211919",
+        "#523a2a",
+        "#8a6b3e",
+        "#c19c4d",
+        "#eadb74",
+        "#a0b335",
+        "#537c44",
+        "#423c56",
+        "#596faf",
+        "#6bb9b6",
+        "#fbfaf9",
+        "#b8aab0",
+        "#79707e",
+        "#945b28"
     ]
 }
